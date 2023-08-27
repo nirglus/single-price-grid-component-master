@@ -26,6 +26,9 @@ main{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+.top-card h1{
+    color: hsl(179, 62%, 43%);
+}
 .second-card{
     grid-area: second-card;
     background-color: hsl(179, 62%, 43%);
