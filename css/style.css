@@ -36,6 +36,7 @@ main{
 .top-card p{
     color: hsl(218, 22%, 67%);
     line-height: 1.5;
+    width: 550px;
 }
 .second-card{
     grid-area: second-card;
