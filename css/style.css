@@ -81,3 +81,14 @@ main{
     content: "\a";
     white-space: pre;
 }
+@media (max-width: 600px){
+    main{
+        grid-template-areas: 
+        'top-card top-card'
+        'second-card second-card'
+        'third-card third-card'
+        ;
+        width: 300px;
+        height: 600px;
+    }
+}
