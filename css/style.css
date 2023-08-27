@@ -69,3 +69,6 @@ main{
     background-color: rgba(42, 178, 175, 0.8);
     border-bottom-right-radius: 10px;
 }
+.third-card p{
+    color: rgba(255, 255, 255, 0.6);
+}
