@@ -54,6 +54,15 @@ main{
 .second-card p{
     color: rgba(255, 255, 255, 0.9);
 }
+.sign-btn{
+    background-color: hsl(71, 73%, 54%);
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    height: 55px;
+    width: 243px;
+    font-size: 16px;
+}
 .third-card{
     grid-area: third-card;
     background-color: rgba(42, 178, 175, 0.8);
