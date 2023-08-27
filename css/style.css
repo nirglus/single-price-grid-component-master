@@ -22,6 +22,7 @@ main{
 }
 .top-card{
     grid-area: top-card;
+    padding: 30px;
     background-color: #fff;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
