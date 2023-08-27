@@ -16,10 +16,13 @@ main{
 }
 .top-card{
     grid-area: top-card;
+    background-color: #fff;
 }
 .second-card{
     grid-area: second-card;
+    background-color: hsl(179, 62%, 43%);
 }
 .third-card{
     grid-area: third-card;
+    background-color: rgba(42, 178, 175, 0.8);
 }
