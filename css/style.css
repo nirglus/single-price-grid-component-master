@@ -41,6 +41,9 @@ main{
     background-color: hsl(179, 62%, 43%);
     border-bottom-left-radius: 10px;
 }
+.second-card h3, .third-card h3{
+    color: #fff;
+}
 .third-card{
     grid-area: third-card;
     background-color: rgba(42, 178, 175, 0.8);
