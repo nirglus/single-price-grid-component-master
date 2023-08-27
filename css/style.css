@@ -75,5 +75,8 @@ main{
 }
 .third-card p{
     color: rgba(255, 255, 255, 0.6);
-    width: 215px;
+}
+.line-break::after{
+    content: "\a";
+    white-space: pre;
 }
