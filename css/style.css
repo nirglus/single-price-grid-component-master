@@ -62,6 +62,7 @@ main{
     height: 55px;
     width: 243px;
     font-size: 16px;
+    box-shadow: 0 6px 16px 1px rgba(0, 0, 0,0.2)
 }
 .third-card{
     grid-area: third-card;
