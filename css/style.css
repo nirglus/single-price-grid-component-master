@@ -97,6 +97,7 @@ main{
         ;
         width: 388px;
         height: 600px;
+        transform: scale(0.5);
     }
     .top-card{
         display: flex;
@@ -116,5 +117,6 @@ main{
     }
     .third-card{
         border-bottom-left-radius: 10px;
+        height: 250px;
     }
 }
