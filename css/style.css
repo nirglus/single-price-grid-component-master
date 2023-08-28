@@ -10,8 +10,8 @@ body{
 }
 main{
     display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 50% 50%;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     grid-template-areas: 
     'top-card top-card'
     'second-card third-card'
@@ -100,7 +100,7 @@ main{
         'third-card third-card'
         ;
         width: 388px;
-        height: 600px;
+        height: unset;
         transform: scale(0.7);
     }
     .top-card{
