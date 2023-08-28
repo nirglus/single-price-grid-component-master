@@ -89,6 +89,10 @@ main{
     white-space: pre;
 }
 @media (max-width: 600px){
+    body{
+        height: unset;
+        overflow: hidden;
+    }
     main{
         grid-template-areas: 
         'top-card top-card'
@@ -97,7 +101,7 @@ main{
         ;
         width: 388px;
         height: 600px;
-        transform: scale(0.5);
+        transform: scale(0.7);
     }
     .top-card{
         display: flex;
