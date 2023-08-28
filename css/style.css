@@ -92,6 +92,7 @@ main{
     body{
         height: unset;
         overflow: hidden;
+        width: fit-content;
     }
     main{
         grid-template-areas: 
@@ -107,6 +108,12 @@ main{
         display: flex;
         flex-direction: column;
         justify-content: center;
+    }
+    .top-card h1{
+        font-size: 25px;
+    }
+    .top-card h2{
+        font-size: 20px;
     }
     .top-card p{
         width: unset;
