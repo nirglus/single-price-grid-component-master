@@ -91,7 +91,6 @@ main{
 @media (max-width: 600px){
     body{
         height: unset;
-        overflow: hidden;
         width: fit-content;
     }
     main{
