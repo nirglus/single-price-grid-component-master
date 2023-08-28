@@ -102,6 +102,11 @@ main{
     }
     .second-card{
         border-bottom-left-radius: 0;
+        padding: 30px 40px;
+    }
+    .sign-btn{
+        width: 316px;
+        margin-top: 25px;
     }
     .third-card{
         border-bottom-left-radius: 10px;
